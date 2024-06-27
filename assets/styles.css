@@ -223,8 +223,8 @@
                 .borde-card:hover .producto {-webkit-transform:scale(1.3);transform:scale(1.3);} 
         
                 .borde-card{
-                    display: grid;
-                    width: 55%;
+                    display: flex;
+                    width: 50%;
                 }       
 
     .filtros{

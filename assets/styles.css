@@ -224,7 +224,7 @@
         
                 .borde-card{
                     display: grid;
-                    max-width: 55%;
+                    width: 55%;
                 }       
 
     .filtros{

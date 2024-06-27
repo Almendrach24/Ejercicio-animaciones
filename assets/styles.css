@@ -185,7 +185,8 @@
 
 
     .nav-logo{
-        display: flex;
+        display: flex
+        
     }
 
         .titulos{
@@ -224,7 +225,7 @@
         
                 .borde-card{
                     display: flex;
-                    width: 100%;
+                    width: 50%;
                 }       
 
     .filtros{
